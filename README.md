@@ -13,9 +13,9 @@ Hello! I'm Dinesh Santosh Khairnar, an aspiring programmer and developer from In
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineshsk12&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshsk12&theme=dark&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshsk12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dskhairnar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dskhairnar&theme=dark&hide_border=false" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dskharinar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
@@ -23,7 +23,7 @@ Hello! I'm Dinesh Santosh Khairnar, an aspiring programmer and developer from In
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dineshsk12&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Dskhairnar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 ---
