@@ -91,11 +91,21 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dskhairnar&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dskhairnar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dskhairnar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dskhairnar&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dskhairnar&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dskhairnar&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dskhairnar&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -121,11 +131,13 @@
 
 ---
 
-# 🔝 Top Contributed Repositories
+# 📈 Contribution Details
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Dskhairnar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dskhairnar&theme=tokyonight&utcOffset=5.5" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dskhairnar&theme=tokyonight" />
 
 </div>
 
