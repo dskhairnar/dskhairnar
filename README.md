@@ -145,7 +145,7 @@ const dinesh = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dskhairnar&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dskhairnar&theme=tokyo-night&hide_border=true)
 
 </div>
 
